@@ -107,6 +107,7 @@ hy2://4eb5646f51e94a84@[2a12:5940:9ab8::2]:37383?obfs=salamander&obfs-password=f
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#4FreeIran-96aaa8529a
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a14:3f87:f001:1a::a]:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#4Jadi-907f8e0726
 hy2://84854B66-8478-4B87-8C0D-CD1699426C41@3.1.217.51:5475?sni=sg3.ddns-link-b5.uk#🔒
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20249975
 hysteria2://57284239-1ceb-439f-826e-cd25fcc1c1c5@31.177.111.14:8443?security=tls&amp;insecure=1#🇷🇺|RU|@wxgqlfx|117
 hy2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.85.171:12378?insecure=1&sni=www.bing.com#🔒
 hysteria2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?security=tls&amp;insecure=1&amp;sni=www.bing.com#🇭🇰|HK|@wxgqlfx|190
@@ -117,8 +118,7 @@ hysteria2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?insecure=1&sn
 hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@31.76.30.97:443/?insecure=1&sni=fast.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3AFI
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@31.76.71.63:443?insecure=1&sni=cabinet.wwwinternetvideo.click#%F0%9F%8E%A161%40oneclickvpnkeys
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@31.76.71.63:443/?insecure=1&sni=cabinet.wwwinternetvideo.click#
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#%E2%9C%85%20%20%40vistav2ray%20%20%F0%9F%91%88%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%E2%9C%85
 hy2://maniubi114514@34.92.152.163:11451?insecure=1&sni=www.bing.com#🔒
 hy2://maniubi114514@34.92.152.163:11451/?insecure=1&sni=www.bing.com#%E2%84%B9%EF%B8%8F7%40oneclickvpnkeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AFR
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.169.140:443?insecure=1&sni=35.181.169.140#
