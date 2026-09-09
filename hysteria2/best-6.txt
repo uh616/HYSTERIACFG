@@ -1,3 +1,4 @@
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.169.140:443?insecure=1&sni=35.181.169.140#%E6%B3%95%E5%9B%BD
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.169.140:443/?insecure=1&sni=35.181.169.140#EPODONIOS
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@35.72.184.29:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@35.72.184.29:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_29%20%40wangcai_8
@@ -58,7 +59,7 @@ hy2://1f17cdf0578a2860@45.76.0.86:443?obfs=salamander&obfs-password=4b817757&ins
 hy2://1f17cdf0578a2860@45.76.0.86:443/?obfs=salamander&obfs-password=4b817757&insecure=1#CPI3
 hy2://f40b1e441addaec3@45.76.44.57:443?insecure=1&sni=google.co&obfs=salamander&obfs-password=2db7b42a#🔒
 hy2://a04705ec-afe0-47d7-99f9-856caaed6a96@45.8.147.250:53038?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=mobile.ir#🔒
-hysteria2://252bb78f404ff43efa42808e98cc4ae9@45.88.14.120:443?insecure=1&sni=cloud.mail.ru#
+hysteria2://252bb78f404ff43efa42808e98cc4ae9@45.88.14.120:443?insecure=1&sni=cloud.mail.ru#%E8%8D%B7%E5%85%B0
 hy2://252bb78f404ff43efa42808e98cc4ae9@45.88.14.120:443/?insecure=1&sni=cloud.mail.ru#EPODONIOS
 hy2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@46.17.40.117:443?insecure=1&sni=music.apple.com#🔒
 hy2://7d417084-d308-4b35-96c8-99dfb2547ec2@46.17.40.42:30102?insecure=1&sni=du.wish.ml#🔒
@@ -83,7 +84,7 @@ hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.152:8443?sni=grape
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.152:8443/?insecure=1&sni=grape-turbo-fr.roxa.org#@OutlineReleasedKey
 hysteria2://391f093f-85fc-473d-abe2-ea607b9ff567@46.243.235.23:8443?security=tls&amp;insecure=1&amp;sni=quic.tyr-agentstvo.tech#🇷🇺|RU|@wxgqlfx|136#🇷🇺|RU|@wxgqlfx|136
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@46.247.41.120:443?sni=kz03hy01.tcp-reset-club.net#%F0%9F%8E%A179%40oneclickvpnkeys
-hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@46.247.41.120:443/?sni=kz03hy01.tcp-reset-club.net#
+hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@46.247.41.120:443/?sni=kz03hy01.tcp-reset-club.net#%F0%9F%87%B0%F0%9F%87%BF166594%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@46.29.161.109:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒
 hy2://b955263a-5eca-4321-90e6-7db4f8bac7b4@46.29.161.15:2453?obfs=salamander&obfs-password=NWFiMGE5MDNlNmI5YWY1MA%3D%3D&insecure=1#🔒
 hy2://a2abd08c-bce1-436c-9008-4ba0ef210f6d@46.29.161.159:1200?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🔒
@@ -121,4 +122,3 @@ hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%20%40WangCai2@52.194.254.229:
 hy2://96cad374-7573-4463-8804-4665c2c3d932@52.197.242.96:5001?insecure=1&sni=d1--cn-gotcha204-4.bilivideo.com#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@52.199.249.206:3074?insecure=1&sni=TG.%40WangCai2#🔒
 hy2://MTEwODI4OjgyOTE5OjhhNTM2MGIzYjMxMjI5ZDg%3DTG%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@52.199.249.206:3074/?insecure=1&sni=TG.%40WangCai2#%F0%9F%87%AF%F0%9F%87%B5JP_206%20%40wangcai_8
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.151.142.26:443?insecure=1&sni=whatsapp.com#%F0%9F%8E%A164%40oneclickvpnkeys
