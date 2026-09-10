@@ -1,3 +1,10 @@
+trojan://3760559353321758720@18.141.59.72:443/?type=tcp&security=tls&sni=dear-sunbeam.treefrog761.one#
+trojan://3763495982449565696@77.73.70.64:443/?type=tcp&security=tls&sni=relaxed-jaybird.treefrog761.one#
+trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@45.158.22.33:443/?type=tcp&security=tls&sni=us2.vpn.ong&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
+trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@trld.ballistics.top:443/?type=tcp&security=tls&sni=trld.ballistics.top#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr05.wangxd.life:3052/?type=tcp&security=tls#
+trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@lsj02.wangxd.life:3052/?type=tcp&security=tls#
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.65.99:443/?type=tcp&security=tls&sni=kdlsupport.zendesk.com#
 trojan://3d442d21-4351-49b3-ab82-1107ec28124e@it-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@23.227.38.29:443/?type=tcp&security=tls&sni=jus2.jsjc.sbs&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
 trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@23.227.39.163:443/?type=tcp&security=tls&sni=jde1.jsjc.sbs&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6CA%28AzadNet.t.me%29
@@ -395,8 +402,6 @@ trojan://@UonVPN-----@UonVPN---@UonVPN---@UonVPN@199.232.78.160:443?mode=auto&pa
 trojan://@UonVPN-----@UonVPN---@UonVPN---@UonVPN@199.232.79.166:443?mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&extra={
 trojan://@UonVPN----@UonVPN---@UonVPN---@UonVPN@104.24.197.20:443?mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&alpn=h2,http/1.1&fm={
 trojan://@UonVPN----@UonVPN---@UonVPN---@UonVPN@199.232.79.166:443?mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&extra={
-trojan://@UonVPN----@UonVPN---@UonVPN@199.232.79.166:443?mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&extra={
-trojan://@UonVPN---@UonVPN---@UonVPN---@UonVPN@104.24.197.20:443?mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&alpn=h2,http/1.1&fm={
 trojan://@UonVPN---@UonVPN---@UonVPN---@UonVPN@199.232.79.166:443?mode=auto&amp;path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&amp;security=tls&amp;extra={
 trojan://@UonVPN---@UonVPN---@UonVPN---@UonVPN@199.232.79.166:443?mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&extra={
 trojan://@UonVPN--@UonVPN---@UonVPN---@UonVPN@104.21.75.247:443?mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&alpn=h2,http/1.1&fm={
@@ -538,7 +543,3 @@ trojan://blue2024@104.19.120.87:443/?type=tcp&security=tls&sni=ta.promote.icu#%F
 trojan://blue2024@104.19.126.235:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@104.19.142.99:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@104.19.173.68:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://blue2024@104.19.174.68:443/?type=tcp&security=tls&sni=ta.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://blue2024@104.19.185.248:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://blue2024@104.19.242.185:443/?type=tcp&security=tls&sni=td.promote.icu
-trojan://blue2024@104.19.243.93:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
