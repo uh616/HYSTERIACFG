@@ -1,3 +1,8 @@
+trojan://3723507166611775488@fitting-ox.boa152.lol:443/?type=tcp&security=tls&sni=fitting-ox.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://3723507166611775488@fleet-weevil.boa152.lol:443/?type=tcp&security=tls&sni=fleet-weevil.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://3723507166611775488@golden-krill.treefrog761.one:443/?type=tcp&security=tls&sni=golden-krill.treefrog761.one#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://3723507166611775488@holy-seahorse.boa152.lol:443/?type=tcp&security=tls&sni=holy-seahorse.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
+trojan://3723507166611775488@lucky-grouper.boa152.lol:443/?type=tcp&security=tls&sni=lucky-grouper.boa152.lol&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@major-reindeer.boa152.lol:443/?type=tcp&security=tls&sni=major-reindeer.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@national-gar.boa152.lol:443/?type=tcp&security=tls&sni=national-gar.boa152.lol#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://3723507166611775488@native-tetra.boa152.lol:443/?type=tcp&security=tls&sni=native-tetra.boa152.lol&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
@@ -132,7 +137,6 @@ trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?security=tls&sni
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.229:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29%20%283%29
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.230:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29%20%285%29
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@61.222.160.199:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BCTW%28AzadNet.t.me%29%20%286%29
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2694
 trojan://71086710-33eb-11ed-adce-1239d0255272@sg1-trojan.bonds.id:443/?type=tcp&security=tls#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://72d42540-b1ef-11ee-bd8f-1239d0255272@51.38.65.155:443/?type=tcp&security=tls&sni=uk1.test3.net#%F0%9F%87%AC%F0%9F%87%A7GB%28AzadNet.t.me%29
 trojan://72d8e820-7926-4ce3-a87c-b6969f425c79@103.235.46.40:443/?type=tcp&security=tls&sni=www.baidu.com&allowInsecure=1&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0HK%28AzadNet.t.me%29%20%281%29
@@ -542,8 +546,3 @@ trojan://blue2024@104.18.106.229:443/?type=tcp&security=tls&sni=td.promote.icu#%
 trojan://blue2024@104.18.118.171:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@104.18.121.158:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
 trojan://blue2024@104.18.124.7:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://blue2024@104.18.138.78:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://blue2024@104.18.139.97:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://blue2024@104.18.153.27:443/?type=tcp&security=tls&sni=td.promote.icu#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29
-trojan://blue2024@104.18.158.83:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2882%29
-trojan://blue2024@104.18.171.44:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg&allowInsecure=1#%F0%9F%87%BD%F0%9F%87%BDXX%28AzadNet.t.me%29%20%2877%29
